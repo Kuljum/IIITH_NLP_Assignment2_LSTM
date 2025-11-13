@@ -91,8 +91,14 @@ This project demonstrates:
 - Overfitting → excessive model capacity
 - Best Fit → balanced generalization
 
+
 ## References
 - PyTorch Documentation – https://pytorch.org/docs
 - Project Gutenberg: Pride and Prejudice by Jane Austen
 - Jurafsky & Martin – Speech and Language Processing
 - IIIT Hyderabad NLP Course (2025)
+
+----
+---
+-
+## Trained model link --https://drive.google.com/file/d/1C8DixG9dzlmgeLXZpdterVwQ96r-wWAl/view?usp=sharing
